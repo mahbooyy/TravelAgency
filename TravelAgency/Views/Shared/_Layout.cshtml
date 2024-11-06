@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - TravelAgency</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/shared.css" />
+    <link rel="stylesheet" href="~/css/shared.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
 </head>
 <body>
     <div id="header-top">
@@ -14,7 +15,7 @@
             <button class="button">Войти</button>
         </div>
     </div>
-    <img  class=" img-header" src="/css/Images/Designer.jpg"/>
+    <img class=" img-header" src="/css/Images/Designer.jpg" />
     <div id="header-bottom">
         <div class="menu">
             <ul>
@@ -28,5 +29,7 @@
     <div class="container">
         @RenderBody()
     </div>
+    <script src="~/js/shared_script.js" asp-append-version="true"></script>
+    <script src="~/js/home_script.js" asp-append-version="true"></script>
 </body>
 </html>

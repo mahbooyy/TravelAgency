@@ -40,13 +40,13 @@ body{
     background-color: rgba(255, 165, 0, 0);
     display: flex;
     justify-content: space-between;
-    padding: 20px, 70px;
-    transition: background-color 0,5s;
+    padding: 20px 70px;
+    transition: background-color 0.5s;
 }
 #header-bottom{
     position: sticky;
     top: 0;
-    padding: 25px, 0;
+    padding: 25px 0;
     width: 50%;
     z-index: 1000;
 }
@@ -55,9 +55,9 @@ body{
     align-items: center;
 }
     .button-header .button {
-        border: 2px, solid #370b0b;
+        border: 2px solid #370b0b;
         background-color: transparent;
-        padding: 7px, 14px;
+        padding: 7px 14px;
         margin: 0 10px;
         border-radius: 3px;
         color: #370b0b;
@@ -89,7 +89,7 @@ body{
         text-decoration: none;
     }
 
-    .menu ahover {
+    .menu a:hover {
         color: #000;
     }
 .container{
