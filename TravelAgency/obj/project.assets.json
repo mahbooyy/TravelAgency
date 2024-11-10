@@ -1,30 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "TravelAgency.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/TravelAgency.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TravelAgency.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TravelAgency.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TravelAgency.Domain/TravelAgency.Domain.csproj",
+      "msbuildProject": "../TravelAgency.Domain/TravelAgency.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "TravelAgency.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\kab-35-17\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mahboy\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj",
+      "projectUniqueName": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj",
       "projectName": "TravelAgency",
-      "projectPath": "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj",
-      "packagesPath": "C:\\Users\\kab-35-17\\.nuget\\packages\\",
-      "outputPath": "D:\\Tizul\\TravelAgency\\TravelAgency\\obj\\",
+      "projectPath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj",
+      "packagesPath": "C:\\Users\\mahboy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kab-35-17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,18 +52,28 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+              "projectPath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,7 +85,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -68,7 +98,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

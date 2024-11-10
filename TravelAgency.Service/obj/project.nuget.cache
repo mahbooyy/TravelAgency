@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wvARiV1E6u7ybqYZJu0pRnywQshXvlU0iVQzp9kHZbZYZtbif7wCd3n/s+ebY/1BoRRfDZQJ/TRPNvRevUP0vw==",
+  "dgSpecHash": "TvSS88RlM64=",
   "success": true,
-  "projectFilePath": "D:\\Tizul\\TravelAgency\\TravelAgency.Service\\TravelAgency.Service.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Service\\TravelAgency.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahboy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahboy\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahboy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
