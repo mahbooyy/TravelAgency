@@ -327,10 +327,7 @@
       },
       "TravelAgency.Domain/1.0.0": {
         "runtime": {
-          "TravelAgency.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "TravelAgency.Domain.dll": {}
         },
         "compile": {
           "TravelAgency.Domain.dll": {}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
+    "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+    "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "projectName": "TravelAgency.Domain",
-        "projectPath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
-        "packagesPath": "C:\\Users\\mahboy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahboy\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\obj\\",
+        "projectPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "packagesPath": "C:\\Users\\kab-35-17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mahboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kab-35-17\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

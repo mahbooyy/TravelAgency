@@ -104,19 +104,19 @@
     border-color: rgb(255,165,0);
 }
 
-.form-box input:focus + span,
-.form-box input:not(:placeholder-shown) ~ span{
-    top: -18px;
-    left: 8px;
-    font-size: 12px;
-    color: rgb(255,165,0);
-    background-color:#fff;
-}
+    .form-box input:focus + span,
+    .form-box input:not(:placeholder-shown) ~ span {
+        top: 6px;
+        left: 8px;
+        font-size: 12px;
+        color: rgb(255,165,0);
+        background-color: #fff;
+    }
 
-.span{
+span{
     cursor:text;
     position:absolute;
-    top: 3%;
+    top: 33%;
     left: 16px;
     color: rgb(131,131,131);
     transition: all 0.3s ease-in-out;
