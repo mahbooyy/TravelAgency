@@ -14,22 +14,24 @@
     <div id="header-top">
         <div class="logo">Мир Путешествий</div>
         <div class=" button-header">
-            <button class="button">Войти</button>
+            <button class="button" id="click-to-hide">Войти</button>
         </div>
     </div>
     <img class=" img-header" src="/css/Images/Designer.jpg" />
     <div id="header-bottom">
-    <div class="menu">
-        <ul>
-            <li><a href="#home">Главная</a></li>
-            <li><a href="#contact">Контакты</a></li>
-            <li><a href="#countries">Страны</a></li>
-            <li><a href="#services">Услуги</a></li>
-        </ul>
+        <div class="menu">
+            <ul>
+                <li><a href="#home">Главная</a></li>
+                <li><a href="#contact">Контакты</a></li>
+                <li><a href="#countries">Страны</a></li>
+                <li><a href="#services">Услуги</a></li>
+            </ul>
+        </div>
     </div>
-    </div>
-    @await Html.PartialAsync("_LoginRegistrationPartial")
-    <div class="container">
+@await Html.PartialAsync("_LoginRegistrationPartial")
+<div class="container">
+
+
 @RenderBody()
 </div>
 <footer>
