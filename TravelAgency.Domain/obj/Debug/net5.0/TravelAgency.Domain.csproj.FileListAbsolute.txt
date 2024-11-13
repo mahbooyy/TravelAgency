@@ -21,3 +21,15 @@ C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency.Domain\obj\Debug\net5.
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency.Domain\obj\Debug\net5.0\ref\TravelAgency.Domain.dll
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.pdb
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.csproj.AssemblyReference.cache
+D:\Tizul\TravelAgency\TravelAgency.Domain\bin\Debug\net5.0\TravelAgency.Domain.deps.json
+D:\Tizul\TravelAgency\TravelAgency.Domain\bin\Debug\net5.0\TravelAgency.Domain.dll
+D:\Tizul\TravelAgency\TravelAgency.Domain\bin\Debug\net5.0\ref\TravelAgency.Domain.dll
+D:\Tizul\TravelAgency\TravelAgency.Domain\bin\Debug\net5.0\TravelAgency.Domain.pdb
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.csproj.AssemblyReference.cache
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.AssemblyInfoInputs.cache
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.AssemblyInfo.cs
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.dll
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\ref\TravelAgency.Domain.dll
+D:\Tizul\TravelAgency\TravelAgency.Domain\obj\Debug\net5.0\TravelAgency.Domain.pdb

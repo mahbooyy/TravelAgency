@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj": {}
+    "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+    "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectUniqueName": "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "projectName": "TravelAgency.Domain",
-        "projectPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
+        "projectPath": "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj",
         "packagesPath": "C:\\Users\\kab-35-17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\obj\\",
+        "outputPath": "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj": {
+    "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj",
+        "projectUniqueName": "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj",
         "projectName": "TravelAgency",
-        "projectPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency\\TravelAgency.csproj",
+        "projectPath": "D:\\Tizul\\TravelAgency\\TravelAgency\\TravelAgency.csproj",
         "packagesPath": "C:\\Users\\kab-35-17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency\\obj\\",
+        "outputPath": "D:\\Tizul\\TravelAgency\\TravelAgency\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
-                "projectPath": "C:\\Users\\kab-35-17\\Desktop\\TravelAgency-main\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
+              "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj": {
+                "projectPath": "D:\\Tizul\\TravelAgency\\TravelAgency.Domain\\TravelAgency.Domain.csproj"
               }
             }
           }

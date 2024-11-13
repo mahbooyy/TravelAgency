@@ -132,3 +132,6 @@ C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency\obj\Debug\net5.0\Trave
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency\obj\Debug\net5.0\ref\TravelAgency.dll
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency\obj\Debug\net5.0\TravelAgency.pdb
 C:\Users\kab-35-17\Desktop\TravelAgency-main\TravelAgency\obj\Debug\net5.0\TravelAgency.genruntimeconfig.cache
+D:\Tizul\TravelAgency\TravelAgency\bin\Debug\net5.0\TravelAgency.Domain.dll
+D:\Tizul\TravelAgency\TravelAgency\bin\Debug\net5.0\TravelAgency.Domain.pdb
+D:\Tizul\TravelAgency\TravelAgency\obj\Debug\net5.0\Razor\Views\Shared\_LoginRegistrationPartial.cshtml.g.cs
